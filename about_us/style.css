@@ -87,3 +87,14 @@ img{
 .ceo_Message,.ceoName,.Position{
     margin-left: 50px;
 }
+
+.footer{
+    background-color: brown;
+    height: 50px;
+}
+
+.footer p{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
