@@ -1,0 +1,100 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fffdce;
+    color: black;
+    padding: 10px 20px;
+}
+
+
+nav a {
+    color: black;
+    text-decoration: none;
+    margin: 0 40px;
+    font-weight: 700;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+
+nav button {
+    background-color:orange;
+    color: white;
+    border: 1px solid white;
+    padding: 8px 16px;
+    margin-right: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+nav button:hover {
+    background-color: #fffdce;
+    color: black;
+    border: 1px solid black;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.center p{
+    font-size: 20px;
+    padding: 30px 130px;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+   
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 130px;
+}
+
+.ceoName{
+    color: rgb(65, 65, 255);
+    font-size:50px;
+    
+}
+
+.Position{
+    color: rgb(255, 78, 78);
+    margin-bottom: 70px;
+}
+
+.ceo_Message{
+    color: gray;
+
+}
+.ceo_Message,.ceoName,.Position{
+    margin-left: 50px;
+}
+
+.footer{
+    background-color: brown;
+    height: 50px;
+}
+
+.footer p{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
