@@ -12,6 +12,7 @@ h1{
 }
 
 .center p{
+    font-size: 20px;
     padding: 30px 70px;
     text-align: center;
 }
@@ -39,5 +40,5 @@ img{
 }
 
 .ceo_Message{
-
+    color: gray;
 }
