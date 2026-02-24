@@ -108,17 +108,36 @@ input{
 .social_icons{
     display: flex;
    justify-content: space-between;
+   width:48px;
+    height:48px;
+     margin:40px 100px 0px 0px;
+    padding:15px;
   
 }
-
+ 
 .fb{
-    width:270px;
-    height:50px;
+    width:48px;
+    height:48px;
+     margin:0px -10px 0px 0px;
+    padding:15px;
 
 }
 
 .insta{
-    
+     width:48px;
+    height:48px;
+     margin:0px 10px 0px 0px;
+    padding:15px;
+
+
+} 
+
+.twitter{
+    width:48px;
+    height:48px;
+     margin:0px -20px 0px 0px;
+    padding:15px;
+
 }
 
 
